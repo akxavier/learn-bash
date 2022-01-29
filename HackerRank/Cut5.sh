@@ -2,5 +2,5 @@
 
 while read str
 do
-    echo "$str" | cut -c1-4
+    echo "$str" | cut -f1-3
 done
