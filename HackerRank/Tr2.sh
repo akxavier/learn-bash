@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tr '()' '[]'
+tr -d [a-z]
