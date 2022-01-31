@@ -21,6 +21,14 @@ A compilation of bash scripts I wrote during my Bash learning journey.
 |15|[Cut #7](./HackerRank/Cut7.sh)|Easy|
 |16|[Cut #8](./HackerRank/Cut8.sh)|Easy|
 |17|[Cut #9](./HackerRank/Cut9.sh)|Easy|
+|18|[Head #1](./HackerRank/Head1.sh)|Easy|
+|19|[Head #2](./HackerRank/Head2.sh)|Easy|
+|20|[Middle of Text File](./HackerRank/Middle.sh)|Easy|
+|21|[Tail #1](./HackerRank/Tail1.sh)|Easy|
+|22|[Tail #2](./HackerRank/Tail2.sh)|Easy|
+|23|[`Tr` command #1](./HackerRank/Tr1.sh)|Easy|
+|24|[`Tr` command #2](./HackerRank/Tr2.sh)|Easy|
+|25|[`Tr` command #3](./HackerRank/Tr3.sh)|Easy|
 
 ### [Coursera - Linux Tools for Developers](./Coursera-LinuxToolsForDevelopers)
 |Sl. no.|Exercise|
