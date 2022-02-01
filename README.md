@@ -40,15 +40,15 @@ A compilation of bash scripts I wrote during my Bash learning journey.
 |34|[`Uniq` command #2](./HackerRank/Uniq2.sh)|Easy|
 |35|[`Uniq` command #3](./HackerRank/Uniq3.sh)|Easy|
 |36|[`Uniq` command #4](./HackerRank/Uniq4.sh)|Easy|
-|38|[Paste - 1](./HackerRank/Paste1.sh)|Medium|
-|39|[Paste - 2](./HackerRank/Paste2.sh)|Medium|
-|40|[Paste - 3](./HackerRank/Paste3.sh)|Medium|
-|41|[Paste - 4](./HackerRank/Paste4.sh)|Medium|
-|42|[`Sed` command #1](./HackerRank/Sed1.sh)|Medium|
-|43|[`Sed` command #2](./HackerRank/Sed2.sh)|Medium|
-|44|[`Sed` command #3](./HackerRank/Sed3.sh)|Easy|
-|45|[`Sed` command #4](./HackerRank/Sed4.sh)|Hard|
-|46|[`Sed` command #5](./HackerRank/Sed5.sh)|Hard|
+|37|[Paste - 1](./HackerRank/Paste1.sh)|Medium|
+|38|[Paste - 2](./HackerRank/Paste2.sh)|Medium|
+|39|[Paste - 3](./HackerRank/Paste3.sh)|Medium|
+|40|[Paste - 4](./HackerRank/Paste4.sh)|Medium|
+|41|[`Sed` command #1](./HackerRank/Sed1.sh)|Medium|
+|42|[`Sed` command #2](./HackerRank/Sed2.sh)|Medium|
+|43|[`Sed` command #3](./HackerRank/Sed3.sh)|Easy|
+|44|[`Sed` command #4](./HackerRank/Sed4.sh)|Hard|
+|45|[`Sed` command #5](./HackerRank/Sed5.sh)|Hard|
 
 ### [Coursera - Linux Tools for Developers](./Coursera-LinuxToolsForDevelopers)
 |Sl. no.|Exercise|
