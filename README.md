@@ -49,14 +49,16 @@ A compilation of bash scripts I wrote during my Bash learning journey.
 |43|[`Sed` command #3](./HackerRank/Sed3.sh)|Easy|
 |44|[`Sed` command #4](./HackerRank/Sed4.sh)|Hard|
 |45|[`Sed` command #5](./HackerRank/Sed5.sh)|Hard|
-|46|[Read in an Array](./HackerRank/Array-Read.sh)|Easy|
-|47|[Slice an Array](./HackerRank/Array-Slice.sh)|Easy|
-|48|[Filter an Array with Patterns](./HackerRank/Array-Filter.sh)|Medium|
-|49|[Concatenate an Array with Itself](./HackerRank/Array-Concatenate.sh)|Easy|
-|50|[Display an Element of an Array](./HackerRank/Array-Display-Element.sh)|Easy|
-|51|[Count the Number of Elements in an Array](./HackerRank/Array-Length.sh)|Easy|
-|52|[Remove First Capital Letter](./HackerRank/Array-Replace-Caps.sh)|Medium|
-|53|[Lonely Integer- Bash!](./HackerRank/Int-Array.sh)|Hard|
+|46|[Let's Echo](./HackerRank/Echo.sh)|Easy|
+|47|[Looping With Numbers](./HackerRank/Loop.sh)|Easy|
+|48|[Read in an Array](./HackerRank/Array-Read.sh)|Easy|
+|49|[Slice an Array](./HackerRank/Array-Slice.sh)|Easy|
+|50|[Filter an Array with Patterns](./HackerRank/Array-Filter.sh)|Medium|
+|51|[Concatenate an Array with Itself](./HackerRank/Array-Concatenate.sh)|Easy|
+|52|[Display an Element of an Array](./HackerRank/Array-Display-Element.sh)|Easy|
+|53|[Count the Number of Elements in an Array](./HackerRank/Array-Length.sh)|Easy|
+|54|[Remove First Capital Letter](./HackerRank/Array-Replace-Caps.sh)|Medium|
+|55|[Lonely Integer- Bash!](./HackerRank/Int-Array.sh)|Hard|
 
 ### [Coursera - Linux Tools for Developers](./Coursera-LinuxToolsForDevelopers)
 |Sl. no.|Exercise|
