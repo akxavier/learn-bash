@@ -60,6 +60,10 @@ A compilation of bash scripts I wrote during my Bash learning journey.
 |54|[Remove First Capital Letter](./HackerRank/Array-Replace-Caps.sh)|Medium|
 |55|[Lonely Integer- Bash!](./HackerRank/Int-Array.sh)|Hard|
 |56|[`Grep`-A](./HackerRank/GrepA.sh)|Easy|
+|57|[`Grep`-B](./HackerRank/GrepB.sh)|Easy|
+|58|[`Grep` #1](./HackerRank/Grep1.sh)|Medium|
+|59|[`Grep` #2](./HackerRank/Grep2.sh)|Medium|
+|60|[`Grep` #3](./HackerRank/Grep3.sh)|Medium|
 
 ### [Coursera - Linux Tools for Developers](./Coursera-LinuxToolsForDevelopers)
 |Sl. no.|Exercise|
