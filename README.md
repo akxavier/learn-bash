@@ -64,6 +64,10 @@ A compilation of bash scripts I wrote during my Bash learning journey.
 |58|[`Grep` #1](./HackerRank/Grep1.sh)|Medium|
 |59|[`Grep` #2](./HackerRank/Grep2.sh)|Medium|
 |60|[`Grep` #3](./HackerRank/Grep3.sh)|Medium|
+|61|[`Awk` #1](./HackerRank/Awk1.sh)|Medium|
+|62|[`Awk` #2](./HackerRank/Awk2.sh)|Medium|
+|63|[`Awk` #3](./HackerRank/Awk3.sh)|Medium|
+|64|[`Awk` #4](./HackerRank/Awk4.sh)|Medium|
 
 ### [Coursera - Linux Tools for Developers](./Coursera-LinuxToolsForDevelopers)
 |Sl. no.|Exercise|
