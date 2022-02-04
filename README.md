@@ -59,6 +59,7 @@ A compilation of bash scripts I wrote during my Bash learning journey.
 |53|[Count the Number of Elements in an Array](./HackerRank/Array-Length.sh)|Easy|
 |54|[Remove First Capital Letter](./HackerRank/Array-Replace-Caps.sh)|Medium|
 |55|[Lonely Integer- Bash!](./HackerRank/Int-Array.sh)|Hard|
+|56|[`Grep`-A](./HackerRank/GrepA.sh)|Easy|
 
 ### [Coursera - Linux Tools for Developers](./Coursera-LinuxToolsForDevelopers)
 |Sl. no.|Exercise|
